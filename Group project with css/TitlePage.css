@@ -1,0 +1,41 @@
+html{
+    font-family:fantasy;
+}
+#trademark{
+  text-align: center;
+  margin-bottom: 60px;
+}
+h1{
+    background-color: whitesmoke;
+}
+#Nba{
+    border-style:dashed;
+    border-color: blue red;
+  }
+  #Nhl{
+    border-style: solid;
+    border-color: black;
+  }
+  #Cup{
+    border-style:double;
+    border-color: black red;
+  }
+  #League{
+    border-style: solid;
+    border-color: black yellow;
+  }
+  #Ball{
+    border-style:outset;
+    border-color: red blue;
+  }
+  #Nfl{
+    border-style:dotted;
+    border-color: blue;
+  }
+  #Champ{
+    border-style:inset;
+    border-color: darkblue darkgreen;
+  }
+  a{
+    color: black;
+  }

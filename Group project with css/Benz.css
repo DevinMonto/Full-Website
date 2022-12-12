@@ -1,0 +1,19 @@
+html{
+    font-family: cursive;
+}
+h1{
+    background-color: silver;
+}
+a{
+    color: black;
+  }
+  p{
+    background-color: transparent;
+}
+body{
+    background-color: whitesmoke;
+}
+#Benz{
+    border-style:groove;
+    border-color: black;
+  }
